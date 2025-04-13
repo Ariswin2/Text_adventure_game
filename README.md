@@ -9,4 +9,4 @@ A interactive text-based adventure game with Tkinter GUI.
 
 ## How to Run
 ```bash
-python adventure_game.py
+python adventure_game.py  
